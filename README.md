@@ -3,3 +3,7 @@ HTML + CSS + JavaScript game. Concentration, also known as Match Match, Match Up
 
 ## Structure
 This game is made using HTML tags and CSS styles to create the cards, and CSS animations to implement the flip cards effect. JavaScript is used to create the Game object and control the logic. JSON files help to load configurations.
+
+## Libraries in this game
+* **jQuery**: to manipulate the DOM tree.
+* **Mustache**: to implement small templates in the app.
