@@ -1,5 +1,8 @@
 # Pairs
-HTML + CSS + JavaScript game. Concentration, also known as Match Match, Match Up, Memory, Pelmanism, Shinkei-suijaku, Pexeso or simply Pairs, is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards. This is a personal exercise to improve my knowledge of web development. Please, forgive any errors.
+HTML + CSS + JavaScript game. 
+
+*[Wikipedia](https://en.wikipedia.org/wiki/Concentration_(card_game))*: Concentration, also known as Match Match, Match Up, Memory, Pelmanism, Shinkei-suijaku, Pexeso or simply Pairs, is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards. This is a personal exercise to improve my knowledge of web development. Please, forgive any errors.
+
 
 ## Visualization
 To play de game, you will need to put the app folder in a directory of your web server, and then, open the index.html file in your navigator. 
