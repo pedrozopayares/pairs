@@ -1,281 +1,841 @@
 [{
 	"url":"aaron.jpg",
 	"title": "Aarón",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"abraham.jpg",
 	"title": "Abraham",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"ana.jpg",
 	"title": "Ana",
-	"description":"",
+	"description": 'Fue la madre del profeta Samuel. Ana le había prometido a Jehová en oración que, si tenía un hijo, lo llevaría al tabernaculo para que sirviera allí. Cuando Samuel nació, Ana cumplió su promesa e hizo una oración muy bonita para darle las gracias a Jehová (1 Samuel 2:1-10).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué regalo le llevaba Ana a su hijo todos los años?",
+			"answer": "(1 Samuel 2:19)", 
+		},
+		{
+			"question": 'Ana primetió: "Lo daré a Jehová ___________ de su vida".',
+			"answer": "(1 Samuel 1:11)", 
+		},
+		{
+			"question": "Samuel fue el único hijo de Ana. ¿Cierto o falso?",
+			"answer": "(1 Samuel 2:21)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"core.jpg",
 	"title": "Coré",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"daniel.jpg",
 	"title": "Daniel",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"david.jpg",
 	"title": "David",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"esau.jpg",
 	"title": "Esau",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"ester.jpg",
 	"title": "Ester",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"ezequias.jpg",
 	"title": "Ezequías",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"faraon.jpg",
 	"title": "Faraón",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"gedeon.jpg",
 	"title": "Gedeón",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"isaias.jpg",
 	"title": "Isaías",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"jacob.jpg",
 	"title": "Jacob",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"jeremias.jpg",
 	"title": "Jeremías",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"job.jpg",
 	"title": "Job",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"jonas.jpg",
 	"title": "Jonas",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"jonatan.jpg",
 	"title": "Jonathan",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"jose.jpg",
 	"title": "José",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"josias.jpg",
 	"title": "Josías",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"josue.jpg",
 	"title": "Josué",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"lot.jpg",
 	"title": "Lot",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"manoah.jpg",
 	"title": "Manóah",
-	"description":"",
+	"description": 'Fue el padre del juez Sansón. Un ángel le dijo a la esposa de Manóah que tendría un hijo. Entonces, Manóah le pidió a Dios que le explicara como cuidar a Sansón. “El Dios verdadero escuchó la voz de Manoah” y el ángel le repitió las instrucciones que ya le habıa dado a su esposa. Les dijo que su hijo sería nazareo y qué cosas tenían que hacer para criarlo (Jueces 13:8-14).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "Según le dijo el ángel a la esposa de Manóah, ¿de quién salvaría Sansón al pueblo de Israel?",
+			"answer": "(Jueces 13:5)", 
+		},
+		{
+			"question": 'Manóah le pidió a Jehová: “El hombre del Dios verdadero que acabas de enviar, déjalo venir otra vez a nosotros, por favor, y que nos _________”',
+			"answer": "(Jueces 13:8)", 
+		},
+		{
+			"question": "Manóah preparó una comida para el ángel. ¿Cierto o falso?",
+			"answer": "(Jueces 13:15, 16, 19)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"maria.jpg",
 	"title": "María",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"miriam.jpg",
 	"title": "Miriam",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"moises.jpg",
 	"title": "Moisés",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"nehemias.jpg",
 	"title": "Nehemías",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"noe.jpg",
 	"title": "Noé",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"noemi.jpg",
 	"title": "Nohemí",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"pablo.jpg",
 	"title": "Pablo",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"pedro.jpg",
 	"title": "Pedro",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"potifar.jpg",
 	"title": "Potifar",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"rahab.jpg",
 	"title": "Rahab",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"ruben.jpg",
 	"title": "Ruben",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"rut.jpg",
 	"title": "Rut",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"salomon.jpg",
 	"title": "Salomón",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"samuel.jpg",
 	"title": "Salomón",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"sanson.jpg",
 	"title": "Sanson",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"saul.jpg",
 	"title": "Saúl",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"timoteo.jpg",
 	"title": "Timoteo",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 },
 {
 	"url":"zipora.jpg",
 	"title": "Ziporá",
-	"description":"",
+	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
 	"sound":"",
+	"exercises": [
+		{
+			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
+			"answer": "(1 Samuel 18:1)", 
+		},
+		{
+			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
+			"answer": "(1 Samuel 15:22)", 
+		},
+		{
+			"question": "Saúl era lento y débil. ¿Cierto o falso?",
+			"answer": "(2 Samuel 1:23)", 
+		}
+	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
 }
 ]
