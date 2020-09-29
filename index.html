@@ -39,6 +39,8 @@
 			var click_counter = 0;
 			var match_counter = 0;
 			var flipped = [];
+			var users = [];
+			var points = 0;
 
 			function Card(index, x, y) {
 
@@ -56,15 +58,15 @@
 				};
 
 				this.template = '<div class="card-container">' +
-									'<div id="{{id}}" data-x="{{x}}" data-y="{{y}}" data-speech="{{speech_recognition_text}}" class="card">' +
-										'<figure class="front">' +
-											'<img src="img/sets/{{images_set}}/{{img}}"/>' +
-										'</figure>' +
-										'<figure class="back">' +
-											'<div>{{speech_recognition_text}}</div>' +
-										'</figure>' +
-									'</div>' +
-								 '</div>';
+							'<div id="{{id}}" data-x="{{x}}" data-y="{{y}}" data-speech="{{speech_recognition_text}}" class="card">' +
+								'<figure class="front">' +
+									'<img src="img/sets/{{images_set}}/{{img}}"/>' +
+								'</figure>' +
+								'<figure class="back">' +
+									'<div>{{speech_recognition_text}}</div>' +
+								'</figure>' +
+							'</div>' +
+						'</div>';
 
 			}
 			Card.prototype.getID = function() {
@@ -101,7 +103,7 @@
 		     	this.properties.img_revert = img_revert;
 			};
 			Card.prototype.setSpeechRecognitionText = function(speech_recognition_text) {
-		     	this.properties.speech_recognition_text = speech_recognition_text;
+		     		this.properties.speech_recognition_text = speech_recognition_text;
 			};
 
 			Card.prototype.click = function(){
@@ -154,8 +156,8 @@
 				});
 			});
 
-			function matching (){
-
+			function matching() {
+				console.log('¿Qué carajos hace esto?');
 			}
 
 			function clickControl(x, y){
@@ -170,7 +172,7 @@
 					} else {
 						if(!((x == flipped[match_counter-1].getX()) && (y == flipped[match_counter-1].getY()))){
 
-							flipped[match_counter]=Pairs[x][y];
+							flipped[match_counter] = Pairs[x][y];
 							$('#'+ flipped[match_counter].getID() + '.flipped').on('webkitTransitionEnd', function(e){
 								if(!(flipped[0].getImg()==flipped[match_counter].getImg())){
 									console.log("NO PAIRS");
@@ -197,6 +199,7 @@
 
 						} else {
 							console.log("Es el mismo!!");
+							matching();
 						}
 
 				}
