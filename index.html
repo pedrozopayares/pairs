@@ -132,7 +132,7 @@
 			var max_cards_y=6;
 			var Pairs = [];
 			var cards =[];
-			var images_set = "default";
+			var images_set = "jw";
 			var blocked = false;
 			var max_index=((max_cards_x*max_cards_y)/2);
 
@@ -211,7 +211,7 @@
 					for(j=0;j<max_cards_y;j++){
 						var card = new Card(i+"_"+j, i, j);
 						Pairs[i].push(card);
-						Pairs[i][j].setImg(images_set + "/" + card_source[index].url);
+						Pairs[i][j].setImg(images_set + "/thumb/" + card_source[index].url);
 						Pairs[i][j].setTitle(card_source[index].title);
 						Pairs[i][j].setDescription(card_source[index].description);
 						Pairs[i][j].setSound(card_source[index].sound);
