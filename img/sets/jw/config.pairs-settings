@@ -189,24 +189,24 @@
 },
 {
 	"url":"faraon.jpg",
-	"title": "Faraón",
-	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
+	"title": "Faraón (1513 a.E.C.)",
+	"description": 'El faraón no quiso obedecer a Jehová y dejar ir a los israelitas. Solo los dejó libres después de las 10 plagas que Jehová envió contra Egipto. Sin embargo, luego los persiguió con su ejército. Pero Jehová protegió a los israelitas y ahogó a los egipcios en el mar Rojo (Salmo 136:15).',
 	"sound":"",
 	"exercises": [
 		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)", 
+			"question": 'El faraón preguntó: “¿Quién es ________, para que yo obedezca su voz y envíe a Israel?"',
+			"answer": "(Éxodo 5:1, 2)", 
 		},
 		{
-			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
-			"answer": "(1 Samuel 15:22)", 
+			"question": 'El faraón era humilde. ¿Cierto o falso?',
+			"answer": "(Éxodo 9:13, 17.)", 
 		},
 		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)", 
+			"question": "En el mar Rojo, ¿qué había entre el ejército del faraón y los israelitas? ",
+			"answer": "(Éxodo 14:19, 20.)", 
 		}
 	],
-	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
+	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/fara%C3%B3n/"
 },
 {
 	"url":"gedeon.jpg",
