@@ -358,23 +358,23 @@
 {
 	"url":"jose.jpg",
 	"title": "José",
-	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
+	"description": 'Fue el primer hijo de Jacob y Raquel (Génesis 35:24). Sus medio hermanos lo vendieron por envidia, y fue llevado a Egipto, donde pasó unos trece años como esclavo o en prisión. Cuando sus hermanos se arrepintieron, en vez de vengarse, los perdonó (Génesis 50:15-21). Aunque estaba lejos de su familia, obedeció a Jehová, se mantuvo moralmente limpio y fue un trabajador diligente y confiable (Génesis 39:1-23).',
 	"sound":"",
 	"exercises": [
 		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)", 
+			"question": "Rellena los espacios en blanco. Los medio hermanos de José lo llamaron “ese ” y lo vendieron por  monedas de plata",
+			"answer": "Soñador, veinte (Génesis 37:19, 28).", 
 		},
 		{
-			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
-			"answer": "(1 Samuel 15:22)", 
+			"question": 'Cuando la esposa de Potifar quiso que se acostara con ella, José respondió: “¿Cómo podría yo cometer esta gran maldad y realmente...”.',
+			"answer": '“... pecar contra Dios?” (Génesis 39:9)', 
 		},
 		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)", 
+			"question": "¿Por qué nombró Faraón a José el segundo al mando en Egipto?",
+			"answer": "Porque sabía que, gracias al espíritu de Dios, José era un hombre sabio y discreto (Génesis 41:38-41)", 
 		}
 	],
-	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
+	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/jos%C3%A9/"
 },
 {
 	"url":"josias.jpg",
