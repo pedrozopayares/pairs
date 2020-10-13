@@ -316,23 +316,23 @@
 {
 	"url":"jonas.jpg",
 	"title": "Jonas",
-	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
+	"description": 'Fue un profeta de Jehová que sirvió durante el reinado de Jeroboán II (2 Reyes 14:23-25). Jehová le enseñó a no concentrarse en él mismo, sino a interesarse en las necesidades ajenas (Jonás 4: 6-11). La historia de Jonás nos enseña que Jehová es extremadamente paciente, misericordioso y bondadoso con los seres humanos imperfectos.',
 	"sound":"",
 	"exercises": [
 		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)", 
+			"question": "Jonás fue enviado a predicar a ________, donde vivían más de ________ personas",
+			"answer": "Nínive, 120.000 (Jonás 1:1, 2; 4:11).", 
 		},
 		{
-			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
-			"answer": "(1 Samuel 15:22)", 
+			"question": 'Aunque al principio huyó para no hacer lo que Jehová le había dicho, ¿qué acto valiente realizó para salvar a la gente?',
+			"answer": "Les dijo a los marineros que lo arrojaran del barco para que se calmara el mar (Jonás 1:3, 9-16).", 
 		},
 		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)", 
+			"question": "Completa esta oración de la Biblia: “Jonás llegó a estar en las entrañas...”",
+			"answer": "... del pez tres días y tres noches.” (Jonás 1:17).", 
 		}
 	],
-	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
+	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/jon%C3%A1s/"
 },
 {
 	"url":"jonatan.jpg",
