@@ -362,7 +362,7 @@
 	"sound":"",
 	"exercises": [
 		{
-			"question": "Rellena los espacios en blanco. Los medio hermanos de José lo llamaron “ese ” y lo vendieron por  monedas de plata",
+			"question": "Rellena los espacios en blanco. Los medio hermanos de José lo llamaron “ese _______” y lo vendieron por ______ monedas de plata",
 			"answer": "Soñador, veinte (Génesis 37:19, 28).", 
 		},
 		{
@@ -379,23 +379,23 @@
 {
 	"url":"josias.jpg",
 	"title": "Josías",
-	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
+	"description": 'Aunque su padre, Amón, era malo, Josías hizo “lo que era recto a los ojos de Jehová” (2 Crónicas 34:2). Prefirió escuchar a quienes amaban a Dios en vez de a quienes eran malas compañías. Gracias a su humildad y aprecio por la adoración verdadera contó con el favor divino (2 Reyes 22:19; 23:24, 25).',
 	"sound":"",
 	"exercises": [
 		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)", 
+			"question": "Josías llegó a ser rey a los ________ años de edad y gobernó durante ________ años.",
+			"answer": "8, 31 (2 Crónicas 34:1).", 
 		},
 		{
-			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
-			"answer": "(1 Samuel 15:22)", 
+			"question": '¿Qué dos profetas tuvieron una buena influencia en Josías?',
+			"answer": "Jeremías y Sofonías (Jeremías 1:1, 2; Sofonías 1:1).", 
 		},
 		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)", 
+			"question": '¿Qué encontró el sacerdote dentro del templo cuando Josías hizo que los trabajadores repararan “la casa de Jehová”?',
+			"answer": '“El libro de la ley de Jehová”, escrito por Moisés (2 Crónicas 34:14-18).', 
 		}
 	],
-	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
+	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/jos%C3%ADas/"
 },
 {
 	"url":"josue.jpg",
