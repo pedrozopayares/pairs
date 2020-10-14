@@ -631,23 +631,23 @@
 {
 	"url":"potifar.jpg",
 	"title": "Potifar",
-	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
+	"description": 'Oficial de la corte egipcia, jefe de la guardia del faraón y amo de José. Cuando puso a José a cargo de todas sus cosas, Jehová bendijo su casa (Génesis 39:5). Sin embargo, debido a una mentira de su esposa, echó a José en prisión (Génesis 39:19, 20).',
 	"sound":"",
 	"exercises": [
 		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)", 
+			"question": '¿Cómo consiguió Potifar a José? (Génesis 37:36; 39:1.)',
+			"answer": 'Se lo compró a los madianitas o ismaelitas', 
 		},
 		{
-			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
-			"answer": "(1 Samuel 15:22)", 
+			"question": 'Potifar le entregó a José casi todo lo que era suyo. ¿Cierto o falso? (Génesis 39:8, 9.)',
+			"answer": 'cierto', 
 		},
 		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)", 
+			"question": 'Al escuchar lo que su esposa dijo que José había hecho, “la _______ de [Potifar] se encendió” (Génesis 39:19).',
+			"answer": 'cólera',
 		}
 	],
-	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
+	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/potifar/"
 },
 {
 	"url":"rahab.jpg",
