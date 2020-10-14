@@ -610,23 +610,23 @@
 {
 	"url":"pedro.jpg",
 	"title": "Pedro",
-	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
+	"description": 'Era pescador y trabajaba mucho. Fue uno de los primeros discípulos de Jesús y llegó a ser uno de los doce apóstoles, o enviados. En los cuatro Evangelios hay más comentarios de Pedro que de cualquier otro apóstol. Jehová lo usó de muchas formas para predicar y para ayudar a sus hermanos (Lucas 22:32; Marcos 3:13-19).',
 	"sound":"",
 	"exercises": [
 		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)", 
+			"question": '¿Por qué empezó a hundirse Pedro?',
+			"answer": 'Porque comenzó a dudar (Mateo 14:28-31).', 
 		},
 		{
-			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
-			"answer": "(1 Samuel 15:22)", 
+			"question": 'Pedro siempre fue soltero. ¿Cierto o falso?',
+			"answer": 'Falso (Marcos 1:29-31; Juan 1:42; 1 Corintios 9:5).', 
 		},
 		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)", 
+			"question": 'Cuando los líderes religiosos ordenaron a los apóstoles que dejaran de predicar, Pedro y sus compañeros respondieron: “Tenemos que...”',
+			"answer": '“... obedecer a Dios como gobernante más bien que a los hombres.” (Hechos 5:18, 27-29.)', 
 		}
 	],
-	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
+	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/pedro/"
 },
 {
 	"url":"potifar.jpg",
