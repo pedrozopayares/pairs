@@ -421,23 +421,23 @@
 {
 	"url":"lot.jpg",
 	"title": "Lot",
-	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
+	"description": 'Lot era sobrino de Abrahán. Vivió en la ciudad de Sodoma, un lugar en donde todos “eran malos, y eran pecadores en extremo contra Jehová”. Aun así, Lot fue siempre un “hombre justo” (Génesis 13:13; 2 Pedro 2:7, 8). Por eso, Jehová lo salvó junto con sus dos hijas cuando destruyó Sodoma. Sin embargo, su esposa desobedeció a Dios y no sobrevivió.',
 	"sound":"",
 	"exercises": [
 		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)", 
+			"question": "Lot era pobre. ¿Cierto o falso? (Génesis 13: 5, 6.)",
+			"answer": "Falso, pues sus bienes “se habían hecho muchos”", 
 		},
 		{
-			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
-			"answer": "(1 Samuel 15:22)", 
+			"question": '. Lot escogió vivir cerca de Sodoma porque la región era “como el ________ de Jehová” (Génesis 13:10, 11)',
+			"answer": "jardín", 
 		},
 		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)", 
+			"question": "Antes de que Jehová destruyera Sodoma, Lot huyó hacia la ciudad de ________ (Génesis 19: 23, 24).",
+			"answer": "Zóar", 
 		}
 	],
-	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
+	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/lot/"
 },
 {
 	"url":"manoah.jpg",
