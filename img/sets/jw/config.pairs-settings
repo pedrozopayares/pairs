@@ -463,23 +463,23 @@
 {
 	"url":"maria.jpg",
 	"title": "María",
-	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
+	"description": 'María fue la madre de Jesús. Aunque era pobre, viajaba todos los años a Jerusalén para celebrar la Pascua y adorar a Dios (Lucas 2:41). Llegó a ser seguidora de Jesús, y, más tarde, sus otros hijos también se hicieron cristianos (Hechos 1:14). La Biblia dice que María se ganó la aprobación de Dios (Lucas 1:30).',
 	"sound":"",
 	"exercises": [
 		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)", 
+			"question": "El ángel ________ visitó a María cuando ella vivía en la ciudad de ________ (Lucas 1:26, 27).",
+			"answer": "Gabriel, Nazaret", 
 		},
 		{
-			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
-			"answer": "(1 Samuel 15:22)", 
+			"question": 'Cuando Jesús tenía cuarenta días de nacido, María lo llevó al templo para ofrecer “un par de ________ o dos ________ ” ',
+			"answer": "tórtolas, pichones", 
 		},
 		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)", 
+			"question": '“María iba conservando todos estos dichos, sacando conclusiones ________ .',
+			"answer": "en su corazón", 
 		}
 	],
-	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
+	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/mar%C3%ADa/"
 },
 {
 	"url":"miriam.jpg",
