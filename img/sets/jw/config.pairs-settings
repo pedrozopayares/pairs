@@ -568,23 +568,23 @@
 {
 	"url":"noemi.jpg",
 	"title": "Nohemí",
-	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
+	"description": 'En un tiempo de hambre que hubo en Belén, Noemí se mudó con su familia a Moab. Después de la muerte de su esposo y sus dos hijos, regresó con su nuera, Rut, a Belén. Rut consiguió comida para Noemí, y Noemí ayudó a Rut a establecerse en el lugar y a casarse (Rut 2:17, 18; 3:1-4).',
 	"sound":"",
 	"exercises": [
 		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)", 
+			"question": "Después de la muerte de su esposo y sus dos hijos, ¿cómo pidió Noemí a sus amigos que la llamaran? (Rut 1:20).",
+			"answer": "Mará", 
 		},
 		{
-			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
-			"answer": "(1 Samuel 15:22)", 
+			"question": 'Noemí dijo que Jehová no había “abandonado su   para con los vivos y los muertos” (Rut 2:20).',
+			"answer": "bondad amorosa", 
 		},
 		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)", 
+			"question": "Noemí se casó con Boaz. ¿Cierto o falso? (Rut 4:13.)",
+			"answer": "Falso. Rut se casó con Boaz", 
 		}
 	],
-	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
+	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/noemi/"
 },
 {
 	"url":"pablo.jpg",
