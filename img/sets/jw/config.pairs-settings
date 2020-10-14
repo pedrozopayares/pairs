@@ -652,23 +652,23 @@
 {
 	"url":"rahab.jpg",
 	"title": "Rahab",
-	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
+	"description": 'Rahab recibió en su casa de Jericó a dos espías israelitas. Sabemos que Rahab confiaba en Jehová porque escondió a los espías, les pidió que protegieran a su familia y siguió sus instrucciones al pie de la letra. Cuando los muros de Jericó fueron destruidos, Rahab y su familia se fueron a vivir con los israelitas (Josué 6:25).',
 	"sound":"",
 	"exercises": [
 		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)", 
+			"question": '¿Dónde estaban los tallos de lino en los que Rahab escondió a los espías? (Josué 2:6.)',
+			"answer": 'en la azotea', 
 		},
 		{
-			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
-			"answer": "(1 Samuel 15:22)", 
+			"question": 'Rahab creía que Jehová “es Dios en los _______ arriba y en la _______ abajo” (Josué 2:11).',
+			"answer": 'cielos; tierra', 
 		},
 		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)", 
+			"question": 'Rahab fue la tatarabuela del rey David. ¿Cierto o falso? (Mateo 1:5, 6.)',
+			"answer": 'cierto', 
 		}
 	],
-	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
+	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/rahab/"
 },
 {
 	"url":"ruben.jpg",
