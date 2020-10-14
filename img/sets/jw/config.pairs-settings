@@ -505,23 +505,23 @@
 {
 	"url":"moises.jpg",
 	"title": "Moisés",
-	"description": 'Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).',
+	"description": 'Fue el primer personaje bíblico que hizo milagros. Fue profeta de Dios, así como juez, legislador y líder del antiguo Israel. Los israelitas lo admiraban por las cosas extraordinarias que realizó (Deuteronomio 34:10-12; Exodo 4:1-9).',
 	"sound":"",
 	"exercises": [
 		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)", 
+			"question": "¿Qué libros escribió Moisés por inspiración divina?",
+			"answer": "Génesis, Exodo, Levítico, Números, Deuteronomio y Job (así como el Salmo 90 y tal vez el 91).", 
 		},
 		{
-			"question": 'El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”',
-			"answer": "(1 Samuel 15:22)", 
+			"question": 'Los padres de Moisés se llamaban _______ y _______. Fue adoptado por _______.',
+			"answer": "Amram, Jokébed, la hija del faraón (Éxodo 1:15–2:10; 6:20).", 
 		},
 		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)", 
+			"question": "Completa este pasaje bíblico: Moisés “continuó constante como si...",
+			"answer": "...viera a Aquel que es invisible” (Hebreos 11:27).", 
 		}
 	],
-	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
+	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/mois%C3%A9s/"
 },
 {
 	"url":"nehemias.jpg",
