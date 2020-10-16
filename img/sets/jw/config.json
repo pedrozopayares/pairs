@@ -126,7 +126,7 @@
 },
 {
 	"url":"esau.jpg",
-	"title": "Esau",
+	"title": "Esaú",
 	"description": "Esaú era hijo de Isaac y Rebeca. Una vez, cambió el derecho que tenía de recibir una bendición especial de su padre por un simple plato de comida. Llegó a tenerle tanta envidia a su hermano gemelo, Jacob, que quiso matarlo. Su hermano amaba y respetaba las cosas sagradas, pero Esaú no (Hebreos 12:16).",
 	"sound":"",
 	"exercises": [
@@ -315,7 +315,7 @@
 },
 {
 	"url":"jonas.jpg",
-	"title": "Jonas",
+	"title": "Jonás",
 	"description": "Fue un profeta de Jehová que sirvió durante el reinado de Jeroboán II (2 Reyes 14:23-25). Jehová le enseñó a no concentrarse en él mismo, sino a interesarse en las necesidades ajenas (Jonás 4: 6-11). La historia de Jonás nos enseña que Jehová es extremadamente paciente, misericordioso y bondadoso con los seres humanos imperfectos.",
 	"sound":"",
 	"exercises": [
@@ -672,38 +672,21 @@
 },
 {
 	"url":"ruben.jpg",
-	"title": "Ruben",
-<<<<<<< HEAD:img/sets/jw/config.pairs-settings
-	"description": 'Rubén era el hijo mayor de Jacob y el hermano de José. Un día, nueve de sus hermanos quisieron matar a José, pero Rubén los convenció de que no lo hicieran. Sin embargo, en cierta ocasión perdió el control y le faltó al respeto a su padre, así que se quedó sin los derechos que tenía como hijo mayor (Génesis 49:3, 4).',
+	"title": "Rubén",
+	"description": "Rubén era el hijo mayor de Jacob y el hermano de José. Un día, nueve de sus hermanos quisieron matar a José, pero Rubén los convenció de que no lo hicieran. Sin embargo, en cierta ocasión perdió el control y le faltó al respeto a su padre, así que se quedó sin los derechos que tenía como hijo mayor (Génesis 49:3, 4).",
 	"sound":"",
 	"exercises": [
 		{
 			"question": "¿Cómo se llamaba la madre de Rubén? (Génesis 29:32.)",
-			"answer": "Lea", 
+			"answer": "Lea"
 		},
 		{
-			"question": 'Refiriéndose a José, Rubén les dijo a sus hermanos: “No  contra el niño” (Génesis 42:22).',
-			"answer": "pequen", 
+			"question": "Refiriéndose a José, Rubén les dijo a sus hermanos: 'No _______ contra el niño' (Génesis 42:22).",
+			"answer": "pequen"
 		},
 		{
 			"question": "Rubén vivió en Egipto. ¿Cierto o falso? (Génesis 46:8.)",
-			"answer": "cierto", 
-=======
-	"description": "Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).",
-	"sound":"",
-	"exercises": [
-		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)"
-		},
-		{
-			"question": "El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”",
-			"answer": "(1 Samuel 15:22)"
-		},
-		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)"
->>>>>>> 900231b6f6bd3773135228e6b86b7b5d5df01df1:img/sets/jw/config.json
+			"answer": "cierto"
 		}
 	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/rub%C3%A9n/"
@@ -711,37 +694,20 @@
 {
 	"url":"rut.jpg",
 	"title": "Rut",
-<<<<<<< HEAD:img/sets/jw/config.pairs-settings
-	"description": 'Fiel viuda moabita que ayudó a Noemí, su anciana suegra. La lealtad y el amor que Rut mostró a Noemí y su determinación de servir a Jehová le dieron la fuerza necesaria para dejar su país y mudarse a Belén. La gente le decía a Noemí: “Tu nuera [...] te es mejor que siete hijos” (Rut 4:14, 15).',
+	"description": "Fiel viuda moabita que ayudó a Noemí, su anciana suegra. La lealtad y el amor que Rut mostró a Noemí y su determinación de servir a Jehová le dieron la fuerza necesaria para dejar su país y mudarse a Belén. La gente le decía a Noemí: “Tu nuera [...] te es mejor que siete hijos” (Rut 4:14, 15).",
 	"sound":"",
 	"exercises": [
 		{
-			"question": 'Completa la promesa que Rut le hizo a Noemí: “Tu pueblo será [...]”.',
-			"answer": '“... mi pueblo, y tu Dios mi Dios.” (Rut 1:16.)', 
+			"question": "Completa la promesa que Rut le hizo a Noemí: “Tu pueblo será [...]”.",
+			"answer": "'... mi pueblo, y tu Dios mi Dios.' (Rut 1:16.)"
 		},
 		{
-			"question": '¿Por qué es Rut un buen ejemplo para quienes cuidan de los enfermos y de los de edad avanzada?',
-			"answer": "Porque mostró un espíritu generoso y diligente (Rut 2:7, 10-12, 17; 3:11)", 
+			"question": "¿Por qué es Rut un buen ejemplo para quienes cuidan de los enfermos y de los de edad avanzada?",
+			"answer": "Porque mostró un espíritu generoso y diligente (Rut 2:7, 10-12, 17; 3:11)" 
 		},
 		{
 			"question": "Llena los espacios en blanco. Rut se casó con _______ y llegó a ser antepasada de _______ y _______.",
-			"answer": "Boaz, el rey David, Jesucristo (Mateo 1:5, 6, 16).", 
-=======
-	"description": "Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).",
-	"sound":"",
-	"exercises": [
-		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)"
-		},
-		{
-			"question": "El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”",
-			"answer": "(1 Samuel 15:22)"
-		},
-		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)"
->>>>>>> 900231b6f6bd3773135228e6b86b7b5d5df01df1:img/sets/jw/config.json
+			"answer": "Boaz, el rey David, Jesucristo (Mateo 1:5, 6, 16)."
 		}
 	],
 	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/rut/"
@@ -749,23 +715,23 @@
 {
 	"url":"salomon.jpg",
 	"title": "Salomón",
-	"description": "Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).",
+	"description": "Fue el segundo hijo de David y Bat-seba y reinó sobre Israel por cuarenta años. Construyó una gran casa para adorar a Jehová (1 Reyes 5:2-5). Fue elegido por Dios para escribir Proverbios, Eclesiastés y el Cantar de los Cantares. La mala influencia de sus esposas extranjeras lo alejó de Jehová (1 Reyes 11:1-6).",
 	"sound":"",
 	"exercises": [
 		{
-			"question": "¿Qué hijo de Saúl se convirtió en el mejor amigo de David?",
-			"answer": "(1 Samuel 18:1)"
+			"question": "¿Qué le pidió Salomón a Dios en vez de riquezas o muchos años de vida?",
+			"answer": "Un corazón obediente (1 Reyes 3:5-14)."
 		},
 		{
-			"question": "El profeta Samuel le dijo a Saúl: “El es mejor que un sacrificio”",
-			"answer": "(1 Samuel 15:22)"
+			"question": "Llena los espacios en blanco. Salomón sabía ______ proverbios y compuso  _______ canciones.",
+			"answer": "3.000, 1.005 (1 Reyes 4:29, 32)."
 		},
 		{
-			"question": "Saúl era lento y débil. ¿Cierto o falso?",
-			"answer": "(2 Samuel 1:23)"
+			"question": "¿Cuál era el segundo nombre de Salomón?",
+			"answer": "Jedidías, que significa “Amado de Jehová” (2 Samuel 12:24, 25)."
 		}
 	],
-	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/"
+	"source": "https://www.jw.org/es/ense%C3%B1anzas-b%C3%ADblicas/ni%C3%B1os/personajes-b%C3%ADblicos/salom%C3%B3n/"
 },
 {
 	"url":"samuel.jpg",
