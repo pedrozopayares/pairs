@@ -142,7 +142,7 @@
 			var blocked = false;
 			var max_index=((max_cards_x*max_cards_y)/2);
 
-			$.getJSON('img/sets/'+images_set+'/config.pairs-settings', function(json, textStatus) {
+			$.getJSON('img/sets/'+images_set+'/config.json', function(json, textStatus) {
 				json = json.sort(function() {return Math.random() - 0.5});
 				max_length=Object.keys(json).length-1;
 				for (i=0;i<max_index;i++){
