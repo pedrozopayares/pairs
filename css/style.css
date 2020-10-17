@@ -64,22 +64,34 @@ html, body{
 }
 
 #game-panel{
-	max-width: 450px;
+	max-width: 500px;
 }
 
 /***********************/
 /*     FLIP EFFECTC     */
 /***********************/
 .card-container{
-	width: 90px;
-	height: 90px;
+	width: 100px;
+	height: 100px;
 	position: relative;
 	-webkit-perspective: 550px;
          -moz-perspective: 550px;
            -o-perspective: 550px;
               perspective: 550px;
-    float:left;
+	float:left;
+	border-right-style: solid;
+	border-right-width: 0.5px;
+	border-right-color: white;
+	border-bottom-style: solid;
+	border-bottom-width: 0.5px;
+	border-bottom-color: white;
 }
+.card-container:nth-child(20){
+	border-right:none;
+	border-bottom:none;
+}
+
+
 .card{
 	width: 100%;
 	height: 100%;
@@ -114,7 +126,8 @@ html, body{
 	font-size: 1.3em;
 }
 .card figure img{
-	width: 75px;
+	width: 100%;
+	height: auto;
 }
 .card .back {
 	transform: rotateY( 180deg );
