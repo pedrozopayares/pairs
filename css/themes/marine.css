@@ -10,14 +10,12 @@
 }
 .card figure{
 	line-height: 100%;
-    color: white;
+    color: black;
     text-align: center;
 }
 .card .front {
-	background-color: #0ac2d2;
 	vertical-align: middle;
 }
 .card .back {
-	background-color: #0ac2d2;
 	transform: rotateY( 180deg );
 }
