@@ -49,8 +49,8 @@ html, body{
 }
 
 #game-panel{
-	max-width: 500px;
-	height: 400px;
+	max-width: 750px;
+	height: auto;
 	display: block;
 	float: left;
 }
@@ -72,13 +72,13 @@ html, body{
 /*     FLIP EFFECTC     */
 /***********************/
 .card-container{
-	width: 100px;
-	height: 100px;
+	width: 150px;
+	height: 150px;
 	position: relative;
-	-webkit-perspective: 550px;
-         -moz-perspective: 550px;
-           -o-perspective: 550px;
-              perspective: 550px;
+	-webkit-perspective: 600px;
+         -moz-perspective: 600px;
+           -o-perspective: 600px;
+              perspective: 600px;
 	float:left;
 	border-right-style: solid;
 	border-right-width: 0.5px;

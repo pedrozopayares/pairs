@@ -18,36 +18,14 @@
 				<div class="app-name">Pairs</div>
 			</div>
 		</div -->
-		<div class="grid grid-cols-2 gap-4">
-			<div class="grid grid-cols-1 gap-4">
+		<div class="grid grid-cols-3 gap-2">
+			<div class="col-span-2 gap-4">
 				<div id="game-panel" class="bg-white rounded-lg ml-3 shadow-md">
 
 				</div>
-				<div id="score" class="ml-3">
-					<div class="md:flex bg-white rounded-lg shadow-md p-6">
-						<img class="h-16 w-16 md:h-24 md:w-24 mx-auto md:mx-0 md:mr-6" src="img/caleb-sofia.png">
-							<div class="text-center md:text-left">
-								<h2 class="text-lg text-red-600">¿Qué hijo de Saúl se convirtió en el mejor amigo de David?</h2>
-								<button  onclick="showAnswer();" class="bg-blue-600 text-gray-200 rounded hover:bg-blue-500 mt-2 px-3 py-2 text-sm focus:outline-none" type="button">
-									Ver respuesta
-								</button>
-							</div>
-						</div>
-				</div>
 			</div>
-			<div id="details">
-				<div class="bg-white rounded-lg mx-auto shadow-md">
-					<img class="h-16 w-16 rounded-t-lg" src="img/sets/jw/full/saul.jpg">
-					<div class="p-6">
-						<h2 class="text-center font-bold text-3xl text-red-600">Rey Saúl</h2>
-						<div class="text-gray-700 p-6">
-							<p>
-								Fue el primer rey de Israel. Al principio, Saúl era humilde y modesto, pero después se volvió un hombre orgulloso y por eso Jehová lo rechazó como rey. Saúl persiguió a David, que se había convertido en un guerrero muy poderoso, e intentó matarlo. Pero Jehová protegió a David. Saúl murió tiempo después durante una batalla contra los filisteos (1 Samuel 31:1-4).
-							</p>
-						</div>
-						<div class="text-purple-500">Conoce más en JW.org</div>
-					</div>
-				</div>
+			<div id="details" class="col-span-1">
+				
 			</div>
 		</div>
 
@@ -159,6 +137,9 @@
 					img_revert:"default/revert.png",
 					flipped:false,
 					speech_recognition_text:x+""+y,
+					title:'',
+					description:'',
+					exercises:[]
 				};
 
 				this.template = '<div class="card-container">' +
@@ -171,10 +152,18 @@
 								'</figure>' +
 							'</div>' +
 						'</div>';
-				this.details = ' ' +
-				
-				'';
-
+				this.detailsTemplate = '<div class="bg-white rounded-lg mx-auto shadow-md">' +
+					'<img class="h-16 w-16 rounded-t-lg" src="img/sets/jw/full/{{url}}">' +
+					'<div class="p-6">' +
+						'<h2 class="text-center font-bold text-3xl text-red-600">{{title}}</h2>' +
+						'<div class="text-gray-700 p-6">' +
+							'<p>' +
+								'{{description}}' +
+							'</p>' +
+						'</div>' +
+						'<div class="text-purple-500"><a href="https://jw.org" target="blank">Conoce más en JW.org</a></div>' +
+					'</div>' +
+				'</div>';
 			}
 			Card.prototype.getID = function() {
 		     	return this.properties.id;
@@ -199,6 +188,9 @@
 			};
 			Card.prototype.setDescription = function(description) {
 		     	this.properties.description = description;
+			};
+			Card.prototype.setExercises = function(exercises) {
+		     	this.properties.exercises = exercises;
 			};
 			Card.prototype.setSound = function(soundURL) {
 		     	this.properties.sound = soundURL;
@@ -231,6 +223,10 @@
 
 			Card.prototype.render=function(){
 				return Mustache.render(this.template, this.properties);
+			};
+
+			Card.prototype.renderDetails=function(details){
+				return Mustache.render(this.detailsTemplate, details);
 			};
 
 			Card.prototype.unRender=function(){
@@ -275,6 +271,7 @@
 						match_counter += 1;
 						flipped[0].unFlip();
 						console.log("FIRST FLIP: TRUE; " + flipped[0].getImg());
+						showDetails(Pairs[x][y]);
 
 					} else {
 						if(!((x == flipped[match_counter-1].getX()) && (y == flipped[match_counter-1].getY()))){
@@ -312,7 +309,9 @@
 				}
 
 			}
-
+			function showDetails(cardSelected){
+				$("#details").html(Pairs[i][j].renderDetails());
+			}
 			function createPairs(card_source){
 				var index=0;
 
@@ -324,6 +323,7 @@
 						Pairs[i][j].setImg(images_set + "/thumb/" + card_source[index].url);
 						Pairs[i][j].setTitle(card_source[index].title);
 						Pairs[i][j].setDescription(card_source[index].description);
+						Pairs[i][j].setExercises(card_source[index].exercises);
 						Pairs[i][j].setSound(card_source[index].sound);
 						Pairs[i][j].setSource(card_source[index].source);
 						Pairs[i][j].setSpeechRecognitionText(index+1);
