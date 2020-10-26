@@ -8,7 +8,7 @@
 	<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/themes/marine.css">
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/4.0.1/mustache.min.js"></script>
+	<script type="text/javascript" src="libs/mustache.min.js"></script>
 </head>
 <body>
 	<div id="game" class="grid grid-cols-1 gap-4 pt-12 bg-blue-400">
@@ -35,309 +35,82 @@
 
 
 		<!--
-  Tailwind UI components require Tailwind CSS v1.8 and the @tailwindcss/ui plugin.
-  Read the documentation to get started: https://tailwindui.com/documentation
--->
-<div id="modal" class="fixed z-10 inset-0 overflow-y-auto hidden">
-	<div class="flex items-end justify-center min-h-screen pt-4 px-4 pb-20 text-center sm:block sm:p-0">
-	  <!--
-		Background overlay, show/hide based on modal state.
-  
-		Entering: "ease-out duration-300"
-		  From: "opacity-0"
-		  To: "opacity-100"
-		Leaving: "ease-in duration-200"
-		  From: "opacity-100"
-		  To: "opacity-0"
-	  -->
-	  <div class="fixed inset-0 transition-opacity">
-		<div class="absolute inset-0 bg-gray-500 opacity-75"></div>
-	  </div>
-  
-	  <!-- This element is to trick the browser into centering the modal contents. -->
-	  <span class="hidden sm:inline-block sm:align-middle sm:h-screen"></span>&#8203;
-	  <!--
-		Modal panel, show/hide based on modal state.
-  
-		Entering: "ease-out duration-300"
-		  From: "opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
-		  To: "opacity-100 translate-y-0 sm:scale-100"
-		Leaving: "ease-in duration-200"
-		  From: "opacity-100 translate-y-0 sm:scale-100"
-		  To: "opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
-	  -->
-	  <div class="inline-block align-bottom bg-white rounded-lg text-left overflow-hidden shadow-xl transform transition-all sm:my-8 sm:align-middle sm:max-w-lg sm:w-full" role="dialog" aria-modal="true" aria-labelledby="modal-headline">
-		<div class="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4">
-		  <div class="sm:flex sm:items-start">
-			<div class="mx-auto flex-shrink-0 flex items-center justify-center h-12 w-12 rounded-full bg-red-100 sm:mx-0 sm:h-10 sm:w-10">
-			  <!-- Heroicon name: exclamation -->
-			  <svg class="h-6 w-6 text-red-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-				<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
-			  </svg>
+		Tailwind UI components require Tailwind CSS v1.8 and the @tailwindcss/ui plugin.
+		Read the documentation to get started: https://tailwindui.com/documentation
+		-->
+		<div id="modal" class="fixed z-10 inset-0 overflow-y-auto hidden">
+			<div class="flex items-end justify-center min-h-screen pt-4 px-4 pb-20 text-center sm:block sm:p-0">
+			<!--
+				Background overlay, show/hide based on modal state.
+		
+				Entering: "ease-out duration-300"
+				From: "opacity-0"
+				To: "opacity-100"
+				Leaving: "ease-in duration-200"
+				From: "opacity-100"
+				To: "opacity-0"
+			-->
+			<div class="fixed inset-0 transition-opacity">
+				<div class="absolute inset-0 bg-gray-500 opacity-75"></div>
 			</div>
-			<div class="mt-3 text-center sm:mt-0 sm:ml-4 sm:text-left">
-			  <h3 class="text-lg leading-6 font-medium text-gray-900" id="modal-headline">
-				Deactivate account
-			  </h3>
-			  <div class="mt-2">
-				<p class="text-sm leading-5 text-gray-500">
-				  Are you sure you want to deactivate your account? All of your data will be permanently removed. This action cannot be undone.
-				</p>
-			  </div>
+		
+			<!-- This element is to trick the browser into centering the modal contents. -->
+			<span class="hidden sm:inline-block sm:align-middle sm:h-screen"></span>&#8203;
+			<!--
+				Modal panel, show/hide based on modal state.
+		
+				Entering: "ease-out duration-300"
+				From: "opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
+				To: "opacity-100 translate-y-0 sm:scale-100"
+				Leaving: "ease-in duration-200"
+				From: "opacity-100 translate-y-0 sm:scale-100"
+				To: "opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
+			-->
+			<div class="inline-block align-bottom bg-white rounded-lg text-left overflow-hidden shadow-xl transform transition-all sm:my-8 sm:align-middle sm:max-w-lg sm:w-full" role="dialog" aria-modal="true" aria-labelledby="modal-headline">
+				<div class="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4">
+				<div class="sm:flex sm:items-start">
+					<div class="mx-auto flex-shrink-0 flex items-center justify-center h-12 w-12 rounded-full bg-red-100 sm:mx-0 sm:h-10 sm:w-10">
+					<!-- Heroicon name: exclamation -->
+					<svg class="h-6 w-6 text-red-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+					</svg>
+					</div>
+					<div class="mt-3 text-center sm:mt-0 sm:ml-4 sm:text-left">
+					<h3 class="text-lg leading-6 font-medium text-gray-900" id="modal-headline">
+						Deactivate account
+					</h3>
+					<div class="mt-2">
+						<p class="text-sm leading-5 text-gray-500">
+						Are you sure you want to deactivate your account? All of your data will be permanently removed. This action cannot be undone.
+						</p>
+					</div>
+					</div>
+				</div>
+				</div>
+				<div class="bg-gray-50 px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse">
+				<span class="flex w-full rounded-md shadow-sm sm:ml-3 sm:w-auto">
+					<button type="button" class="inline-flex justify-center w-full rounded-md border border-transparent px-4 py-2 bg-red-600 text-base leading-6 font-medium text-white shadow-sm hover:bg-red-500 focus:outline-none focus:border-red-700 focus:shadow-outline-red transition ease-in-out duration-150 sm:text-sm sm:leading-5">
+					Deactivate
+					</button>
+				</span>
+				<span class="mt-3 flex w-full rounded-md shadow-sm sm:mt-0 sm:w-auto">
+					<button type="button" class="inline-flex justify-center w-full rounded-md border border-gray-300 px-4 py-2 bg-white text-base leading-6 font-medium text-gray-700 shadow-sm hover:text-gray-500 focus:outline-none focus:border-blue-300 focus:shadow-outline-blue transition ease-in-out duration-150 sm:text-sm sm:leading-5">
+					Cancel
+					</button>
+				</span>
+				</div>
 			</div>
-		  </div>
+			</div>
 		</div>
-		<div class="bg-gray-50 px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse">
-		  <span class="flex w-full rounded-md shadow-sm sm:ml-3 sm:w-auto">
-			<button type="button" class="inline-flex justify-center w-full rounded-md border border-transparent px-4 py-2 bg-red-600 text-base leading-6 font-medium text-white shadow-sm hover:bg-red-500 focus:outline-none focus:border-red-700 focus:shadow-outline-red transition ease-in-out duration-150 sm:text-sm sm:leading-5">
-			  Deactivate
-			</button>
-		  </span>
-		  <span class="mt-3 flex w-full rounded-md shadow-sm sm:mt-0 sm:w-auto">
-			<button type="button" class="inline-flex justify-center w-full rounded-md border border-gray-300 px-4 py-2 bg-white text-base leading-6 font-medium text-gray-700 shadow-sm hover:text-gray-500 focus:outline-none focus:border-blue-300 focus:shadow-outline-blue transition ease-in-out duration-150 sm:text-sm sm:leading-5">
-			  Cancel
-			</button>
-		  </span>
-		</div>
-	  </div>
-	</div>
-  </div>
   
 
 	</div>
 	<script
-			src="https://code.jquery.com/jquery-3.5.1.min.js"
+			src="libs/jquery-3.5.1.min.js"
 			integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
 			crossorigin="anonymous">
 	</script>
-
-	<script>
-
-		(function(){
-
-			var WIDTH= $("#game-panel").width();
-			var HEIGHT= $("#game-panel").height();
-			var items_on_match = 2;
-			var click_counter = 0;
-			var match_counter = 0;
-			var flipped = [];
-			var users = [];
-			var points = 0;
-
-			function Card(index, x, y) {
-
-				this.x=x;
-				this.y=y;
-
-				this.properties = {
-					id: index,
-					x: this.x,
-					y: this.y,
-					img: "default/1.png",
-					img_revert:"default/revert.png",
-					flipped:false,
-					speech_recognition_text:x+""+y,
-					title:'',
-					description:'',
-					exercises:[]
-				};
-
-				this.template = '<div class="card-container">' +
-							'<div id="{{id}}" data-x="{{x}}" data-y="{{y}}" data-speech="{{speech_recognition_text}}" class="card text-3xl text-gray-700">' +
-								'<figure class="front">' +
-									'<img src="img/sets/{{images_set}}/{{img}}"/>' +
-								'</figure>' +
-								'<figure class="back">' +
-									'<div>{{speech_recognition_text}}</div>' +
-								'</figure>' +
-							'</div>' +
-						'</div>';
-				this.detailsTemplate = '<div class="bg-white rounded-lg mx-auto shadow-md">' +
-					'<img class="h-16 w-16 rounded-t-lg" src="img/sets/jw/full/{{url}}">' +
-					'<div class="p-6">' +
-						'<h2 class="text-center font-bold text-3xl text-red-600">{{title}}</h2>' +
-						'<div class="text-gray-700 p-6">' +
-							'<p>' +
-								'{{description}}' +
-							'</p>' +
-						'</div>' +
-						'<div class="text-purple-500"><a href="https://jw.org" target="blank">Conoce más en JW.org</a></div>' +
-					'</div>' +
-				'</div>';
-			}
-			Card.prototype.getID = function() {
-		     	return this.properties.id;
-			};
-			Card.prototype.getX = function() {
-		     	return this.properties.x;
-			};
-			Card.prototype.getY = function() {
-		     	return this.properties.y;
-			};
-			Card.prototype.getImg = function() {
-		     	return this.properties.img;
-			};
-			Card.prototype.getFlipped = function() {
-		     	return this.properties.flipped;
-			};
-			Card.prototype.setImg = function(imgURL) {
-		     	this.properties.img = imgURL;
-			};
-			Card.prototype.setTitle = function(title) {
-		     	this.properties.title = title;
-			};
-			Card.prototype.setDescription = function(description) {
-		     	this.properties.description = description;
-			};
-			Card.prototype.setExercises = function(exercises) {
-		     	this.properties.exercises = exercises;
-			};
-			Card.prototype.setSound = function(soundURL) {
-		     	this.properties.sound = soundURL;
-			};
-			Card.prototype.setSource = function(sourceURL) {
-		     	this.properties.source = sourceURL;
-			};
-			Card.prototype.setImgRevert = function(img_revert) {
-		     	this.properties.img_revert = img_revert;
-			};
-			Card.prototype.setSpeechRecognitionText = function(speech_recognition_text) {
-		     		this.properties.speech_recognition_text = speech_recognition_text;
-			};
-
-			Card.prototype.click = function(){
-				this.flip();
-			};
-
-			Card.prototype.flip = function(){
-				console.log("Flip " + this.properties.id);
-				$('#' + this.properties.id).addClass('flipped');
-				this.properties.flipped=true;
-			};
-
-			Card.prototype.unFlip = function(){
-				console.log("unFlip");
-				$('#' + this.properties.id).removeClass('flipped');
-				this.properties.flipped=false;
-			};
-
-			Card.prototype.render=function(){
-				return Mustache.render(this.template, this.properties);
-			};
-
-			Card.prototype.renderDetails=function(details){
-				return Mustache.render(this.detailsTemplate, details);
-			};
-
-			Card.prototype.unRender=function(){
-				$('#' + this.properties.id).remove();
-			};
-
-			var max_cards_x=5;
-			var max_cards_y=4;
-			var Pairs = [];
-			var cards =[];
-			var images_set = "jw";
-			var blocked = false;
-			var max_index=((max_cards_x*max_cards_y)/2);
-
-			$.getJSON('img/sets/'+images_set+'/config.json', function(json, textStatus) {
-				json = json.sort(function() {return Math.random() - 0.5});
-				max_length=Object.keys(json).length-1;
-				for (i=0;i<max_index;i++){
-					 cards.push(json[i]);
-				}
-				cards = cards.concat(cards);
-				cards = cards.sort(function() {return Math.random() - 0.5});
-				createPairs(cards);
-
-				$('.card').click(function(e){
-					if(match_counter < items_on_match){
-						clickControl($(e.currentTarget).data('x'), $(e.currentTarget).data('y'));
-						console.log(flipped);
-					}
-				});
-			});
-
-			function matching() {
-				console.log('¿Qué carajos hace esto?');
-			}
-
-			function clickControl(x, y){
-
-					if(match_counter == 0){
-
-						flipped[0] = Pairs[x][y];
-						match_counter += 1;
-						flipped[0].unFlip();
-						console.log(flipped[0]);
-						showDetails(Pairs[x][y]);
-
-					} else {
-						if(!((x == flipped[match_counter-1].getX()) && (y == flipped[match_counter-1].getY()))){
-
-							flipped[match_counter] = Pairs[x][y];
-							$('#'+ flipped[match_counter].getID() + '.flipped').on('webkitTransitionEnd', function(e){
-								if(!(flipped[0].getImg()==flipped[match_counter].getImg())){
-									console.log("NO PAIRS");
-									match_counter += 1;
-									if (match_counter == items_on_match){
-										console.log(match_counter);
-										for (var i = flipped.length - 1; i >= 0; i--) {
-											flipped[i].flip();
-										}
-										flipped=[];
-										match_counter = 0;
-									}
-								} else {
-									console.log("PAIRS");
-									for (var i = flipped.length - 1; i >= 0; i--) {
-										flipped[i].unRender();
-									}
-									match_counter = 0;
-								}
-								$(this).off(e);
-							});
-							flipped[match_counter].unFlip();
-
-
-						} else {
-							console.log("Es el mismo!!");
-							matching();
-						}
-
-				}
-
-			}
-			function showDetails(cardSelected){
-				$("#details").html(cardSelected.properties.renderDetails());
-			}
-			function createPairs(card_source){
-				var index=0;
-
-				for(i=0;i<max_cards_x;i++){
-					Pairs[i]=[];
-					for(j=0;j<max_cards_y;j++){
-						var card = new Card(i+"_"+j, i, j);
-						Pairs[i].push(card);
-						Pairs[i][j].setImg(images_set + "/thumb/" + card_source[index].url);
-						Pairs[i][j].setTitle(card_source[index].title);
-						Pairs[i][j].setDescription(card_source[index].description);
-						Pairs[i][j].setExercises(card_source[index].exercises);
-						Pairs[i][j].setSound(card_source[index].sound);
-						Pairs[i][j].setSource(card_source[index].source);
-						Pairs[i][j].setSpeechRecognitionText(index+1);
-						Pairs[i][j].setImgRevert(index+1);
-						$("#game-panel").append(Pairs[i][j].render());
-						$("#game-panel").append(Pairs[i][j].flip());
-						index++;
-					}
-				}
-			}
-
-
-		})()
-
-	</script>
+	<script type="text/javascript" src="js/Card.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
 </body>
 </html>
