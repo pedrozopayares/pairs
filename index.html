@@ -270,7 +270,7 @@
 						flipped[0] = Pairs[x][y];
 						match_counter += 1;
 						flipped[0].unFlip();
-						console.log("FIRST FLIP: TRUE; " + flipped[0].getImg());
+						console.log(flipped[0]);
 						showDetails(Pairs[x][y]);
 
 					} else {
@@ -310,7 +310,7 @@
 
 			}
 			function showDetails(cardSelected){
-				$("#details").html(Pairs[i][j].renderDetails());
+				$("#details").html(cardSelected.properties.renderDetails());
 			}
 			function createPairs(card_source){
 				var index=0;
