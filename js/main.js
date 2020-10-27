@@ -46,7 +46,7 @@
 				flipped[0] = Pairs[x][y];
 				match_counter += 1;
 				flipped[0].unFlip();
-				console.log("FIRST FLIP: TRUE; " + flipped[0].getImg());
+				console.log(flipped[0]);
 				showDetails(Pairs[x][y]);
 
 			} else {
@@ -87,7 +87,7 @@
 	}
 
 	function showDetails(cardSelected){
-		$("#details").html(Pairs[i][j].renderDetails());
+		$("#details").html(cardSelected.renderDetails());
 	}
 
 	function createPairs(card_source) {
@@ -99,6 +99,7 @@
 				var card = new Card(i+"_"+j, i, j);
 				Pairs[i].push(card);
 				Pairs[i][j].setImg(images_set + "/thumb/" + card_source[index].url);
+				Pairs[i][j].setImgFull(images_set + "/full/" + card_source[index].url);
 				Pairs[i][j].setTitle(card_source[index].title);
 				Pairs[i][j].setDescription(card_source[index].description);
 				Pairs[i][j].setExercises(card_source[index].exercises);

@@ -8,6 +8,7 @@ function Card(index, x, y) {
 		x: this.x,
 		y: this.y,
 		img: "default/1.png",
+		imgFull: "default/1.png",
 		img_revert:"default/revert.png",
 		flipped:false,
 		speech_recognition_text:x+""+y,
@@ -27,7 +28,7 @@ function Card(index, x, y) {
 				'</div>' +
 			'</div>';
 	this.detailsTemplate = '<div class="bg-white rounded-lg mx-auto shadow-md">' +
-		'<img class="h-16 w-16 rounded-t-lg" src="img/sets/jw/full/{{url}}">' +
+		'<img class="h-16 w-16 rounded-t-lg" src="img/sets/{{images_set}}/{{imgFull}}">' +
 		'<div class="p-6">' +
 			'<h2 class="text-center font-bold text-3xl text-red-600">{{title}}</h2>' +
 			'<div class="text-gray-700 p-6">' +
@@ -56,6 +57,9 @@ Card.prototype.getFlipped = function() {
 };
 Card.prototype.setImg = function(imgURL) {
 	this.properties.img = imgURL;
+};
+Card.prototype.setImgFull = function(imgFullURL) {
+	this.properties.imgFull = imgFullURL;
 };
 Card.prototype.setTitle = function(title) {
 	this.properties.title = title;
@@ -99,8 +103,8 @@ Card.prototype.render=function(){
 	return Mustache.render(this.template, this.properties);
 };
 
-Card.prototype.renderDetails=function(details){
-	return Mustache.render(this.detailsTemplate, details);
+Card.prototype.renderDetails=function(){
+	return Mustache.render(this.detailsTemplate, this.properties);
 };
 
 Card.prototype.unRender=function(){
